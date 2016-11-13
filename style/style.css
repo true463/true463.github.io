@@ -1,0 +1,265 @@
+
+*{
+margin: 0;
+padding: 0;
+}
+.header{
+width: 1000px;
+height: 160px;
+margin: 0 auto;
+}
+.banner{
+width: 1000px;
+height: 470px;
+margin: 0 auto;
+background-image: url(../images/ef.jpg);
+overflow: hidden;
+}
+.banner span{
+	font-size: 40px;
+	text-align: center;
+}
+.banner-inner{
+	width: 1000px;
+	height: 120px;
+	margin-top: 150px;
+}
+.yy{
+	margin-top: 44px;
+	cursor: pointer;
+	float: left;
+}
+.uu{
+	margin-top: 44px;
+	cursor: pointer;
+	float: right;
+}
+.banner-middle{
+	width: 500px;
+	height: 100px;
+	margin: 0 auto;
+	text-align: center;
+}
+.container{
+width: 1000px;
+height: 540px;
+margin: 0 auto;
+}
+.footer{
+width: 1000px;
+height: 330px;
+margin: 0 auto;
+}
+.top{
+height: 100px;
+background-color: white;
+border: 1px solid black;
+}
+.nav{
+height: 60px;
+background-color: black;
+}
+.container-top{
+height: 240px;
+background-color: gray;
+}
+.container-bottom{
+height: 300px;
+background-color: #ffffff;
+}
+.container-bottom h3{
+	margin-top: 22px;
+	margin-left: 32px;
+	font-size: 17px;
+}
+.container-bottom div{
+	float: left;
+	width: 250px;
+	height: 190px;
+}
+.container-bottom div p{
+	font-size: 12px;
+}
+.footer-top{
+height: 250px;
+background-color: #e5e5e5;
+}
+.footer-bottom{
+height: 80px;
+background-color: #ffffff;
+}
+.footer-bottom p{
+	margin-top: 28px;
+	margin-left: 18px;
+	font-size: 12px;
+	float: left;
+}
+.footer-bottom img{
+	margin-left: 90px;
+	margin-top: 28px;
+	float: left;
+}
+.search{
+width: 200px;
+height: 20px;
+background-color: #F1F1F1;
+float: right;
+margin-right: 20px;
+margin-top:40px;
+border: 1px solid #e5e5e5
+}
+.search span{
+	margin-left: 15px;
+	color: #989898;
+	font-size: 12px;
+
+}
+
+.container-top-1{
+width: 500px;
+height: 240px;
+background-color: ffffff;
+float: left;
+}
+.container-top-1 h3{
+	margin-top: 36px;
+	margin-left: 22px;
+	font-size: 17px;
+}
+.con-t-1-list{
+	width: 450px;
+	height: 108px;
+	margin-left: 22px;
+}
+.con-t-1-list li{
+	width: 450px;
+
+}
+.con-t-1-list li span{
+	font-size: 12px;
+	color:#666;
+	float: right;
+}
+.container-top-2{
+width: 240px;
+height: 240px;
+background-color: #f1f1f1;
+float: left;
+}
+.container-top-2 h3{
+	margin-top: 36px;
+	margin-left: 22px;
+	font-size: 17px;
+}
+.container-top-2 h4{
+	margin-top: 40px;
+	margin-left: 22px;
+	font-size: 14px;
+}
+.container-top-2 span{
+	font-size: 12px;
+	color: #969696;
+	float: left;
+}
+.container-top-3{
+width: 260px;
+height: 240px;
+background-color: #ffffff;
+float: left;
+}
+.container-top-3 h3{
+	margin-top: 36px;
+	margin-left: 22px;
+	font-size: 17px;
+}
+.container-top-3 span{
+	font-size: 12px;
+	color:#5a5a5a;
+	float: left;
+	margin-top: 22px;
+	margin-left: 18px;
+}
+.footer-top-1{
+width: 450px;
+height: 160px;
+background-color: #e5e5e5;
+float: left;
+margin-left: 30px;
+margin-top: 30px;
+}
+.footer-top-1 h3{
+	margin-top: 32px;
+	margin-left: 22px;
+	font-size: 17px;
+	border-bottom: 2px solid #848484;
+}
+.footer-top-1 ul{
+	margin-top: 40px;
+	margin-left: 22px;
+	font-size: 12px;
+	float:left;
+	list-style-image:url(../images/da.gif);
+}
+.footer-top-2{
+width: 150px;
+height: 100px;
+background-color: #e5e5e5;
+float: left;
+margin-left: 60px;
+margin-top: 30px;
+
+}
+.footer-top-2 h3{
+	margin-top: 32px;
+	margin-left: 22px;
+	font-size: 17px;
+	border-bottom: 2px solid #848484;
+}
+.footer-top-2 ul{
+	margin-top: 40px;
+	margin-left: 22px;
+	font-size: 12px;
+	list-style-image: url(../images/da.gif);
+}
+.footer-top-3{
+width: 200px;
+height: 200px;
+background-color: #e5e5e5;
+float: right;
+margin-top: 30px;
+margin-right: 25px;
+}
+.footer-top-3 h3{
+	margin-top: 32px;
+	margin-left: 22px;
+	font-size: 17px;
+	border-bottom: 2px solid #848484;
+}
+.md{
+	margin-left: 22px;
+	margin-top: 42px;
+	float:left;
+}
+.sd{
+	margin-right: 10px;
+	float: right;
+	margin-top: 8px;
+}
+.ab{
+width: 123px;
+height: 60px;
+background-color: black;
+list-style: none;
+line-height: 60px;
+text-align: center;
+float: left;
+border: 1px solid white;
+
+}
+a{
+text-decoration: none;
+color: white;
+}
+.ab:hover{
+background-color: #e5e5e5;
+
